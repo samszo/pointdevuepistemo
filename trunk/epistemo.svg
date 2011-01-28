@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="210mm"
+   height="297mm"
+   id="svg2">
+  <script xlink:href="library/js/tagcloud.js" />  
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3155">
+      <stop
+         id="stop3157"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3163"
+         style="stop-color:#000000;stop-opacity:0.49803922"
+         offset="0.75213867" />
+      <stop
+         id="stop3159"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3178"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7289182,0,0,1.0843027,-37.217195,40.291494)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3180"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.2325241,0,0,2.7468656,-168.79418,-315.77728)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3190"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.4649307,0,0,0.2716847,289.11004,412.36104)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3207"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.4647623,0,0,0.2912959,288.39514,493.69215)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3215"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0381105,0,0,-0.5781827,115.34171,710.23322)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3228"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5107045,0,0,1.5014678,1.0224267,225.92255)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3232"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.3509645,0,-1.1526095e-2,0.1693579,323.53133,600.43028)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3240"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.4278907,0,0,0.3160296,243.18317,579.38286)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3244"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.3960526,0,0,0.3108281,353.70564,579.22819)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3260"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9945141,0,0,0.6284094,3.0344261,519.1839)" />
+    <radialGradient
+       cx="242.85715"
+       cy="300.93362"
+       r="158.64285"
+       fx="242.85715"
+       fy="300.93362"
+       id="radialGradient3272"
+       xlink:href="#linearGradient3155"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.475741,0,0,0.6149829,363.92516,516.20257)" />
+  </defs>
+  <g
+     id="layer1">
+    <path
+       d="M 724.21552,510.84689 C 724.21552,746.92593 567.14571,938.30566 373.39028,938.30566 C 179.63486,938.30566 22.56502,746.92593 22.56502,510.84689 C 22.56502,274.76788 179.63486,83.387998 373.39028,83.387998 C 567.14571,83.387998 724.21552,274.76788 724.21552,510.84689 L 724.21552,510.84689 z"
+       id="path2383"
+       style="fill:url(#radialGradient3180);fill-opacity:1;stroke:#000000;stroke-width:10.55160904;stroke-miterlimit:4;stroke-dasharray:84.41286497, 84.41286497;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 605.30419,677.76468 C 605.30419,806.80816 499.01822,911.41852 367.9078,911.41852 C 236.79739,911.41852 130.51141,806.80816 130.51141,677.76468 C 130.51141,548.7212 236.79739,444.11081 367.9078,444.11081 C 499.01822,444.11081 605.30419,548.7212 605.30419,677.76468 L 605.30419,677.76468 z"
+       id="path3194"
+       style="fill:url(#radialGradient3228);fill-opacity:1;stroke:#ffffff;stroke-width:6.41725969;stroke-miterlimit:4;stroke-dasharray:51.338078, 51.338078;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 530.58577,536.23861 C 530.58577,486.54676 457.54927,446.26359 367.45418,446.26359 C 277.35909,446.26359 204.3226,486.54676 204.3226,536.23861 C 204.3226,585.93044 277.35909,626.21362 367.45418,626.21362 C 457.54927,626.21362 530.58577,585.93044 530.58577,536.23861 L 530.58577,536.23861 z"
+       id="path3213"
+       style="fill:url(#radialGradient3215);fill-opacity:1;stroke:#fefefe;stroke-width:3.30108023;stroke-miterlimit:4;stroke-dasharray:26.40864287, 26.40864287;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 654.35005,366.59459 C 654.35005,459.78483 532.71158,535.33046 382.66294,535.33046 C 232.61427,535.33046 110.97581,459.78483 110.97581,366.59459 C 110.97581,273.40433 232.61427,197.8587 382.66294,197.8587 C 532.71158,197.8587 654.35005,273.40433 654.35005,366.59459 L 654.35005,366.59459 z"
+       id="path3176"
+       style="fill:url(#radialGradient3178);fill-opacity:1;stroke:#fefefe;stroke-width:5.83397198;stroke-miterlimit:4;stroke-dasharray:46.67177146, 46.67177146;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       x="396.27078"
+       y="225.51218"
+       transform="scale(0.7923241,1.2621098)"
+       id="Donnees"
+       xml:space="preserve"
+       style="font-size:31.06998062px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5963462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+         x="396.27078"
+         y="225.51218"
+         id="tspan3180"
+         style="stroke:#000000;stroke-width:0.5963462;stroke-opacity:1">DONNEES</tspan></text>
+    <g
+       transform="matrix(0.6315304,0,0,0.7120558,141.9921,66.053395)"
+       onclick="SetNewData(evt);"
+       >
+      <text
+         x="303.50394"
+         y="79.835892"
+         transform="scale(0.7336361,1.3630736)"
+         id="text3165"
+         xml:space="preserve"
+         style="font-size:51.98391724px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">
+         <tspan
+	       id="ObsPotDeb"
+           x="303.50394"
+           y="79.835892"
+           style="stroke-width:1">OBSERVABLES</tspan></text>
+      <text
+         x="341.10428"
+         y="122.4464"
+         transform="scale(0.7336361,1.3630736)"
+         id="text3171"
+         xml:space="preserve"
+         style="font-size:51.98391724px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">
+         <tspan
+           x="341.10428"
+           y="122.4464"
+	       id="ObsPotFin"
+           style="stroke-width:1">POTENTIELS</tspan></text>
+    </g>
+    <path
+       d="M 475.0823,494.12007 C 475.0823,517.46998 442.37199,536.39881 402.02177,536.39881 C 361.67155,536.39881 328.96124,517.46998 328.96124,494.12007 C 328.96124,470.77017 361.67155,451.84132 402.02177,451.84132 C 442.37199,451.84132 475.0823,470.77017 475.0823,494.12007 L 475.0823,494.12007 z"
+       id="path3188"
+       style="fill:url(#radialGradient3190);fill-opacity:1;stroke:#fefefe;stroke-width:1.51435781;stroke-miterlimit:4;stroke-dasharray:12.11486249, 12.11486249;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 400.84008,708.29337 C 400.84008,762.30194 330.8708,806.08452 244.55931,806.08452 C 158.24781,806.08452 88.278507,762.30194 88.278507,708.29337 C 88.278507,654.2848 158.24781,610.50221 244.55931,610.50221 C 330.8708,610.50221 400.84008,654.2848 400.84008,708.29337 L 400.84008,708.29337 z"
+       id="path3258"
+       style="fill:url(#radialGradient3260);fill-opacity:1;stroke:#fefefe;stroke-width:3.36843896;stroke-miterlimit:4;stroke-dasharray:26.94750988, 26.94750988;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 554.22155,701.27156 C 554.22155,754.1262 520.75067,796.97335 479.46224,796.97335 C 438.17383,796.97335 404.70296,754.1262 404.70296,701.27156 C 404.70296,648.41693 438.17383,605.5698 479.46224,605.5698 C 520.75067,605.5698 554.22155,648.41693 554.22155,701.27156 L 554.22155,701.27156 z"
+       id="path3270"
+       style="fill:url(#radialGradient3272);fill-opacity:1;stroke:#fefefe;stroke-width:2.30472231;stroke-miterlimit:4;stroke-dasharray:18.43778053, 18.43778053;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 474.30003,581.35289 C 474.30003,606.38828 441.60156,626.68347 401.26597,626.68347 C 360.93036,626.68347 328.23189,606.38828 328.23189,581.35289 C 328.23189,556.31749 360.93036,536.0223 401.26597,536.0223 C 441.60156,536.0223 474.30003,556.31749 474.30003,581.35289 L 474.30003,581.35289 z"
+       id="path3205"
+       style="fill:url(#radialGradient3207);fill-opacity:1;stroke:#fefefe;stroke-width:1.56777775;stroke-miterlimit:4;stroke-dasharray:12.54222226, 12.54222226;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 512.12667,672.76679 C 512.12667,699.48086 484.26228,721.13691 449.88983,721.13691 C 415.51737,721.13691 387.65299,699.48086 387.65299,672.76679 C 387.65299,646.05271 415.51737,624.39667 449.88983,624.39667 C 484.26228,624.39667 512.12667,646.05271 512.12667,672.76679 L 512.12667,672.76679 z"
+       id="path3242"
+       style="fill:url(#radialGradient3244);fill-opacity:1;stroke:#fefefe;stroke-width:1.49499035;stroke-miterlimit:4;stroke-dasharray:11.95992295, 11.95992295;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 414.33942,674.48674 C 414.33942,701.64786 384.23507,723.66629 347.09946,723.66629 C 309.96386,723.66629 279.85951,701.64786 279.85951,674.48674 C 279.85951,647.32563 309.96386,625.3072 347.09946,625.3072 C 384.23507,625.3072 414.33942,647.32563 414.33942,674.48674 L 414.33942,674.48674 z"
+       id="path3238"
+       style="fill:url(#radialGradient3240);fill-opacity:1;stroke:#fefefe;stroke-width:1.56686676;stroke-miterlimit:4;stroke-dasharray:12.53493388, 12.53493388;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 460.44853,651.39573 C 459.45793,665.95118 433.96268,677.7507 403.50331,677.7507 C 373.04394,677.7507 349.15479,665.95118 350.1454,651.39573 C 351.13601,636.8403 376.63125,625.04077 407.09063,625.04077 C 437.54999,625.04077 461.43914,636.8403 460.44853,651.39573 L 460.44853,651.39573 z"
+       id="path3230"
+       style="fill:url(#radialGradient3232);fill-opacity:1;stroke:#fefefe;stroke-width:1.03881001;stroke-miterlimit:4;stroke-dasharray:8.31048068, 8.31048068;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       x="332.7937"
+       y="719.86749"
+       transform="scale(1.1002501,0.9088843)"
+       id="Hypotheses"
+       xml:space="preserve"
+       style="font-size:11.21405315px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2152385px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+         x="332.7937"
+         y="719.86749"
+         id="tspan3236"
+         style="stroke:#000000;stroke-width:0.2152385;stroke-opacity:1">HYPOTHESES</tspan></text>
+    <text
+       x="352.1633"
+       y="592.20752"
+       transform="scale(0.8515591,1.1743166)"
+       id="Postulats"
+       xml:space="preserve"
+       style="font-size:15.95416069px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.30621842px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+         x="352.1633"
+         y="592.20752"
+         id="tspan3248"
+         style="stroke:#000000;stroke-width:0.30621842;stroke-opacity:1">POSTULATS</tspan></text>
+    <text
+       x="489.25305"
+       y="592.27368"
+       transform="scale(0.8507025,1.1754991)"
+       id="Theoremes"
+       xml:space="preserve"
+       style="font-size:15.36196041px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.29485196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+         x="489.25305"
+         y="592.27368"
+         id="tspan3254"
+         style="stroke:#000000;stroke-width:0.29485196;stroke-opacity:1">THEOREMES</tspan></text>
+    <text
+       x="-293.00208"
+       y="1228.7531"
+       transform="scale(1.1425039,0.8752706)"
+       id="Principes"
+       xml:space="preserve"
+       style="font-size:21.20535851px;font-style:normal;font-weight:normal;line-height:125%;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.40700811px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+         x="104.72498"
+         y="831.02618"
+         id="tspan3264"
+         style="text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.40700811;stroke-opacity:1">PRINCIPES</tspan></text>
+    <text
+       x="506.99988"
+       y="636.88092"
+       transform="scale(0.8510372,1.1750368)"
+       id="Axiomes"
+       xml:space="preserve"
+       style="font-size:20.75462532px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.39835674px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+         x="506.99988"
+         y="636.88092"
+         id="tspan3268"
+         style="stroke:#000000;stroke-width:0.39835674;stroke-opacity:1">AXIOMES</tspan></text>
+    <g
+       transform="matrix(0.8281862,0,0,1.0664623,91.123307,142.94222)"
+       id="TheoSciEmp">
+      <text
+         x="312.15729"
+         y="523.3382"
+         transform="scale(0.7986435,1.2521231)"
+         id="text2432"
+         xml:space="preserve"
+         style="font-size:25.40202332px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48865157px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+           x="312.15729"
+           y="523.3382"
+           id="tspan2434"
+           style="stroke-width:0.48865157">THEORIES SCIENTIFIQUES</tspan></text>
+      <text
+         x="382.58463"
+         y="548.64661"
+         transform="scale(0.7986435,1.2521231)"
+         id="text2436"
+         xml:space="preserve"
+         style="font-size:25.40202332px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.48865157px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+           x="382.58463"
+           y="548.64661"
+           id="tspan2438"
+           style="stroke-width:0.48865157">EMPIRIQUES</tspan></text>
+    </g>
+    <text
+       x="96.503532"
+       y="773.9834"
+       transform="scale(1.2845241,0.7784984)"
+       id="Protocoles"
+       xml:space="preserve"
+       style="font-size:13.75941181px;font-style:normal;font-weight:normal;line-height:125%;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26409325px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+         x="164.55804"
+         y="705.92883"
+         id="tspan3211"
+         style="text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#000000;stroke-width:0.26409325;stroke-opacity:1">PROTOCOLES</tspan></text>
+    <text
+       x="318.65851"
+       y="552.59784"
+       transform="scale(1.1078128,0.9026796)"
+       id="Observations"
+       xml:space="preserve"
+       style="font-size:11.28896523px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.21667635px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+         x="318.65851"
+         y="552.59784"
+         id="tspan3196"
+         style="stroke:#000000;stroke-width:0.21667635;stroke-opacity:1">OBSERVATIONS</tspan></text>
+    <text
+       x="320.56451"
+       y="643.0603"
+       transform="scale(1.1002501,0.9088843)"
+       id="Conditionnels"
+       xml:space="preserve"
+       style="font-size:11.21405315px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2152385px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+         x="320.56451"
+         y="643.0603"
+         id="tspan3203"
+         style="stroke:#000000;stroke-width:0.2152385;stroke-opacity:1">CONDITIONNELS</tspan></text>
+  </g>
+</svg>
