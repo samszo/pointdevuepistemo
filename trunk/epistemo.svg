@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.0"
-   width="210mm"
-   height="297mm"
-   id="svg2">
-  <script xlink:href="library/js/tagcloud.js" />  
+   preserveAspectRatio="xMinYMin meet"
+   viewBox="0 0 1000 1000"
+   width="100%"
+   height="100%"
+   id="svgGlobal">
   <defs
      id="defs4">
     <linearGradient
@@ -160,15 +158,16 @@
        y="225.51218"
        transform="scale(0.7923241,1.2621098)"
        id="Donnees"
+       onclick="$('#resultat').load('http://localhost/generateur/public/conjugaison/tester',{CacheForm:1,id_conj:355,elision:0,prefix:'hurl'});"
        xml:space="preserve"
-       style="font-size:31.06998062px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5963462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       style="font-size:31.06998062px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5963462px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans">
+       <tspan
          x="396.27078"
          y="225.51218"
          id="tspan3180"
          style="stroke:#000000;stroke-width:0.5963462;stroke-opacity:1">DONNEES</tspan></text>
     <g
        transform="matrix(0.6315304,0,0,0.7120558,141.9921,66.053395)"
-       onclick="SetNewData(evt);"
        >
       <text
          x="303.50394"
